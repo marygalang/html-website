@@ -1,0 +1,103 @@
+#hero {
+    background-color: #BDE8F5;
+}
+
+.mary-img {
+    border-radius: 50%;
+}
+
+#hero h1 {
+  font-family: "Yeseva One", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #4988C4;
+  font-size: 100px;
+}
+
+#hero p {
+    color: #4988C4;
+    font-size: 40px;
+}
+
+.space {
+    background-color: white;
+    height: 30px;
+}
+
+.container-x {
+    background-color: #1C4D8D;
+}
+
+#hanging-icons h2 {
+    color: #BDE8F5;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+}
+
+#hanging-icons h3 {
+    color: white;
+    font-weight: lighter;
+}
+
+#hanging-icons p {
+    color: white;
+}
+
+.container-s {
+    background-color: #1C4D8D;
+}
+
+#skill {
+    text-align: center;
+}
+
+#icon-grid h2 {
+    color: #BDE8F5;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+}
+
+#icon-grid h3 {
+     color: white;
+    font-weight: lighter;
+}
+
+#icon-grid p {
+    color: white;
+}
+
+.container-s {
+    background-color: #4988C4;
+}
+
+.container-p {
+    background-color: #1C4D8D;
+}
+
+.container h2 {
+    color: #4988C4;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+}
+
+.container-h {
+    background-color: #1C4D8D;
+}
+
+#food {
+    margin-right: 35px;
+}
+
+#photo {
+    margin-right: 35px;
+}
+
+.container-f {
+    background-color: #BDE8F5;
+}
